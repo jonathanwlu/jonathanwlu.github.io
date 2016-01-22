@@ -1,2 +1,2 @@
-# jonathanwlu.github.io
-jlu.io
+personal site
+not much to see here, move along
